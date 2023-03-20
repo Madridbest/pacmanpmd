@@ -1,0 +1,2 @@
+# pacmanpmd
+pacman activity
